@@ -164,7 +164,7 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 
 ## Day 78-84: Review and Practice
 - Go back through Days 1-77 and review any weak areas.
-- Complete hands-on challenges on TryHackMe: https://tryhackme.com
+- Complete hands-on challenges on TryHackMe: https://github.com/winterrdog/tryhackme-free-rooms
 - Set up a home lab using VirtualBox or VMware to practice what you have learned.
 - Try building a small project that combines networking, Linux, Python, and security concepts.
 
